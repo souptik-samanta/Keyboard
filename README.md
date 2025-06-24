@@ -37,14 +37,14 @@ Below is an example Bill of Materials (BOM) for Soup_pad 88‐key keyboard build
 
   
 - assembly
-![alt text](image.png)
+![alt text](./img/image.png)
 - Schematic
-![alt text](image-1.png)
+![alt text](./img/image-1.png)
 - pcb top
-![alt text](image-4.png)
+![alt text](./img/image-4.png)
 - my branding with isro lockheed martin and meth and more 
-![](image-2.png)
+![alt text](image.png)
 
 - pcb bot 
-![alt text](image-3.png)
+![alt text](image-1.png)
 ---
