@@ -2,10 +2,10 @@ Below is an example Bill of Materials (BOM) for Soup_pad 88‐key keyboard build
 ---
 
 ### Looks (pic quality is bad as its a screenshot from jlcpcb gerber vieweer)
-![alt text](<image (17).png>)
+![alt text](<./img/image (17).png>)
 
 
-![alt text](<image (16).png>)
+![alt text](<./img/image (16).png>)
 
 ### Bill of Materials (BOM)
 - 88 cherry mx switches 
